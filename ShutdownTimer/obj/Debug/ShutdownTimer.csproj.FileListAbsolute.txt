@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\ShutdownTimerSource\ShutdownTimer\bin\Debug\ShutdownTimer.exe
+C:\Users\Administrator\Documents\ShutdownTimerSource\ShutdownTimer\bin\Debug\ShutdownTimer.pdb
+C:\Users\Administrator\Documents\ShutdownTimerSource\ShutdownTimer\obj\Debug\ShutdownTimer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\ShutdownTimerSource\ShutdownTimer\obj\Debug\ShutdownTimer.exe
+C:\Users\Administrator\Documents\ShutdownTimerSource\ShutdownTimer\obj\Debug\ShutdownTimer.pdb
